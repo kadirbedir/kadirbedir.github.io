@@ -20,7 +20,7 @@ title: Kadir Bedir
 <!-- CV BUTONU – Hero’nun hemen altına yapıştır -->
 <section class="bg-light py-4">
 <div class="text-center mt-4">
-  <a href="/assets/files/Kadir_Bedir_CV.pdf" 
+  <a href="/assets/files/TRcv.pdf" 
      target="_blank" 
      class="btn btn-primary btn-lg px-5 shadow">
      📄 Özgeçmiş / CV (PDF)
