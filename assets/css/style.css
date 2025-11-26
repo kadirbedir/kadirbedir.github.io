@@ -83,3 +83,12 @@ h1, h2, h3, h4 { font-weight: 700; }
   .timeline-item::after { left: 21px; }
   .timeline-year { left: -60px; }
 }
+/* Timeline yıl düzeltmesi */
+.timeline-item:nth-child(odd) .timeline-year { right: -90px; }
+.timeline-item:nth-child(even) .timeline-year { left: -90px; }
+@media (max-width: 768px) {
+  .timeline-year { 
+    left: -70px !important; 
+    font-size: 1rem;
+  }
+}
