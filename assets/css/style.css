@@ -1,0 +1,5 @@
+body { font-family: 'Inter', sans-serif; background: #fafafa; color: #333; padding-top: 76px; }
+h1,h2,h3,h4 { font-weight: 700; }
+section { padding: 90px 0; }
+#hero { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; min-height: 100vh; display: flex; align-items: center; }
+.profile-img { width: 220px; height: 220px; border-radius: 50%; border: 8px solid rgba(255,255,255,0.3); object-fit: cover; }
