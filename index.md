@@ -17,6 +17,17 @@ title: Kadir Bedir
   </div>
 </section>
 
+<!-- CV BUTONU – Hero’nun hemen altına yapıştır -->
+<section class="bg-light py-4">
+<div class="text-center mt-4">
+  <a href="/assets/files/Kadir_Bedir_CV.pdf" 
+     target="_blank" 
+     class="btn btn-primary btn-lg px-5 shadow">
+     📄 Özgeçmiş / CV (PDF)
+  </a>
+</div>
+</section>
+
 <!-- HAKKIMDA -->
 <section id="hakkimda" class="bg-white">
   <div class="container">
